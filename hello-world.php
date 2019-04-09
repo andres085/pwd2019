@@ -6,7 +6,7 @@
 
 echo 'Hola Mundo, probando 1, 2 , 3';
 
-echo 'Probando Taiga otra vez.'
+echo 'Probando Taiga otra vez.';
 // cambio del profesor
 ?>
 </body>
