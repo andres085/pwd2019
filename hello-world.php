@@ -5,6 +5,8 @@
 // then click the URL that is emitted to the Output tab of the console
 
 echo 'Hola Mundo, probando 1, 2 , 3';
+
+echo 'Probando Taiga otra vez.'
 // cambio del profesor
 ?>
 </body>
